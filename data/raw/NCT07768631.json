@@ -1,0 +1,261 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT07768631",
+      "orgStudyIdInfo": {
+        "id": "1754"
+      },
+      "organization": {
+        "fullName": "Endogenex, Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Study Evaluating the Metabolic Effects of pulsENDO Therapy in Adults With Type 2 Diabetes",
+      "officialTitle": "A Prospective, Multicenter, Randomized, Sham-Controlled Study Evaluating the Metabolic Effects of pulsENDO Therapy in Adults With Type 2 Diabetes (pULSENDO Study)",
+      "acronym": "pulsENDO"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-08",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2027-01-01",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2029-11-01",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2030-11-01",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2026-08-11",
+      "studyFirstSubmitQcDate": "2026-08-12",
+      "studyFirstPostDateStruct": {
+        "date": "2026-08-17",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-08-14",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-08-18",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Endogenex, Inc.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": true,
+      "isUnapprovedDevice": true,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "This is a prospective, multicenter, randomized, double-blind, sham-controlled, adaptive study evaluating the pulsENDO system in individuals with type 2 diabetes (T2D) inadequately controlled on non-insulin glucose-lowering medications (GLMs). The primary objective of this study is to demonstrate that pulsENDO therapy is superior to sham control for improving glycemic control in adults with type 2 diabetes.",
+      "detailedDescription": "This is a prospective, multicenter, randomized, double-blind, sham-controlled, adaptive study evaluating the pulsENDO system in individuals with type 2 diabetes (T2D) inadequately controlled on non-insulin glucose-lowering medications (GLMs).\n\nThe study enrolls two sequential cohorts. An initial open-label run-in cohort (n=30) generates early safety data to support FDA review of the pulsENDO system. This is followed by an adaptively designed randomized cohort of up to 320 participants (target 250), randomized 2:1 to pulsENDO therapy or a sham control procedure. Participants in both cohorts are followed for 12 months post-procedure. The primary effectiveness endpoint is assessed at Month 6 in the randomized cohort."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes Type 2",
+        "Diabetes",
+        "Diabetes (DM)",
+        "Weight Change",
+        "Glycemic Control",
+        "Glycemic Control for Diabetes Mellitus"
+      ],
+      "keywords": [
+        "blinded",
+        "multicenter",
+        "randomized",
+        "doudenal regeneration",
+        "type 2 diabetes"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "SEQUENTIAL",
+        "interventionModelDescription": "The study enrolls two sequential cohorts. An initial open-label run-in cohort (n=30) generates early safety data to support FDA review of the pulsENDO system. This is followed by an adaptively designed randomized cohort of up to 320 participants (target 250), randomized 2:1 to pulsENDO therapy or a sham control procedure.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "maskingDescription": "Participants and Principal Investigators will be blinded to treatment status",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 320,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "pulsEndo Arm",
+          "type": "EXPERIMENTAL",
+          "description": "Arm to receive pulsENDO therapy",
+          "interventionNames": [
+            "Device: pulsENDO Therapy"
+          ]
+        },
+        {
+          "label": "Sham Contorl Arm",
+          "type": "NO_INTERVENTION",
+          "description": "Control arm receives sham procedure"
+        },
+        {
+          "label": "Run-in Arm",
+          "type": "EXPERIMENTAL",
+          "description": "Initial open-label run-in cohort (n=30) generates early safety data",
+          "interventionNames": [
+            "Device: pulsENDO Therapy"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DEVICE",
+          "name": "pulsENDO Therapy",
+          "description": "The pulsENDO System is a catheter-based, non-thermal endoscopic therapy designed to promote controlled regeneration of the duodenal mucosa using pulsed electric field (PEF) technology. The treatment is controlled by the design of electrodes and waveform algorithm that concentrates the field to target the doudenal and jejunal cells of the small intestines.",
+          "armGroupLabels": [
+            "Run-in Arm",
+            "pulsEndo Arm"
+          ],
+          "otherNames": [
+            "Endogenex"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in HbA1c",
+          "description": "Change in HbA1c from baseline to Month 6",
+          "timeFrame": "From baseline to 6 months post-procedure"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Percent Change in HbA1c from baseline to Month 12",
+          "description": "Percent Change in HbA1c from baseline to Month 12 in treatment arm only",
+          "timeFrame": "Baseline to Month 12"
+        },
+        {
+          "measure": "Number o participants with HbA1c \u22647.0% at Month 6",
+          "description": "Proportion of participants achieving HbA1c \u22647.0% without requiring rescue medication at Month 6",
+          "timeFrame": "Measured at Month 6 post-procedure"
+        },
+        {
+          "measure": "Time-in Tight Range (TITR) at Month 6",
+          "description": "Number of participants with Time-in Tight Range (TITR) \u226550% at Month 6",
+          "timeFrame": "Measured at 6 Months post-procedure"
+        },
+        {
+          "measure": "Total body weight loss (%TBL)",
+          "description": "Percent total body weight loss (%TBWL) from baseline to Month 6",
+          "timeFrame": "Measure of change from baseline to 6 months post-procedure"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. 22- 75 years of age, inclusive.\n2. T2D diagnosis for at least 6 months.\n3. HbA1c of 7.5-10.5%, inclusive, for participants on 1-3 GLMs or or if on 4 glucose-lowering medications must have HbA1c between 7.5% - 9.0%, inclusive.\n4. BMI 27-40 kg/m2, inclusive.\n5. On 1-4 non-insulin glucose lowering medications, with no changes in medication or dosing for at least 12 weeks prior to the baseline visit\n6. If on lipid-lowering medications, the medication stable for at least 12 weeks .\n7. Individualized metabolic surgery (IMS) score \u2264 115.\n8. Weight stability (\u22645% weight change) for at least 12 weeks\n9. Agree not to donate blood during participation in the study.\n10. Women of childbearing potential must not be pregnant and using an acceptable method of contraception throughout the study.\n11. Willing and able to comply with study visits and study requirements.\n12. Understand and able to provide written informed consent.\n\nExclusion Criteria:\n\n1. Diagnosed with type 1 diabetes.\n2. History of diabetic ketoacidosis or hyperosmolar nonketotic coma.\n3. Fasting serum C-peptide \\<1 ng/mL (333pmol/l).\n4. Current use of insulin, or previous use of any types of insulin for \\>1 month at any time (except for treatment of gestational diabetes) in last 2 years.\n5. Hypoglycemic unawareness.\n6. History of \u22651 severe hypoglycemia episode in past 6 months\n7. Discontinuation of a GLP-1 or a GLP-1/GIP dual-agonist within 6 months of the screening visit following at least one month of treatment.\n8. Known autoimmune disease\n9. Previous GI surgery that has changed GI anatomy\n10. Known history of a structural or functional disorder of the upper GI tract that may impede passage of the device through the upper GI tract or increase risk of tissue damage during an endoscopic procedure\n11. History of gastroparesis.\n12. Acute gastrointestinal illness in the last 7 days.\n13. Known history of inflammatory disease (e.g. Crohn's disease, ulcerative colitis, inflammatory bowel disease), radiation enteritis or other chronic inflammatory disorders of the bowel.\n14. History of chronic or acute pancreatitis.\n15. Active hepatitis or active liver disease, or alanine aminotransferase (ALT) level \\>3.0 times the upper limit of normal (ULN)\n16. Unable to discontinue non-steroidal anti-inflammatory drugs (NSAIDs) from treatment through 4 weeks following the procedure.\n17. Use of systemic glucocorticoids for more than 10 consecutive days within 12 weeks\n18. Use of medications known to affect GI motility (e.g. metoclopramide/ Reglan)\n19. Current use of weight loss medications or other weight loss medications including over-the-counter \\[OTC\\] medications or have discontinued weight loss medications within 6 months.\n20. Participation in any structured weight loss program or endoscopic weight loss intervention within 6 months.\n21. Persistent anemia, defined as hemoglobin \\<10 g/dL.\n22. Known history of hemoglobinopathy, hemolytic anemia or sickle cell anemia, or any other traits of hemoglobin abnormalities known to interfere with the measurement of HbA1c.\n23. History of blood donation or transfusion within 3 months.\n24. Unstable or paroxysmal cardiac arrhythmia.\n25. Any of the following cardiovascular conditions within 6-months prior to screening visit: acute myocardial infarction, unstable angina, cerebrovascular accident (stroke), hospitalization due to congestive heart failure, or history of other significant cardiovascular disease\n26. Heart failure/valvular disease: NYHA Class III or IV heart failure, or clinically significant valvular heart disease associated with symptoms or increased procedural/anesthesia risk\n27. Estimated glomerular filtration rate (eGFR) \u2264 45 ml/min/1.73m2\n28. Known immunocompromised status, including but not limited to individuals who have undergone organ transplantation, chemotherapy, or radiotherapy within the past 12 months, who have clinically significant leukopenia, who are positive for the human immunodeficiency virus (HIV) or whose immune status makes the participant a poor candidate for clinical trial participation in the opinion of the investigator.\n29. History of secondary hypothyroidism or inadequately controlled primary hypothyroidism\n30. Presence of any implanted electronic devices that cannot be turned off during the procedure\n31. Presence of duodenal or biliary stents.\n32. Not a candidate for upper GI endoscopy or general anesthesia.\n33. Active illicit substance abuse or alcoholism (\\>2 drinks/day regularly).\n34. Active malignancy within the last 5 years (excluding non-melanoma skin cancers).\n35. Women who are breastfeeding.\n36. Participating in another ongoing clinical trial of an investigational drug or device.\n37. Current or history within the past 12 months of binge eating disorder, bulimia nervosa, anorexia nervosa, or night eating syndrome.\n38. Clinically significant psychiatric illness, defined as any of the following: (a) psychiatric hospitalization within the past 24 months; (b) a history of suicide attempt, or active suicidal ideation within the past 24 months; or (c) a diagnosis of schizophrenia, other psychotic disorder, or bipolar disorder that is not clinically stable on current management\n39. Critically ill or has a life expectancy \\<5 years.\n40. Are investigator site personnel directly affiliated with this study and/or their immediate family member. Immediate family is defined as a spouse, parent, child, or sibling, whether biological or legally adopted.\n\n    Additional exclusion criteria to be evaluated during the screening process:\n41. HbA1c \\< 7.5% or \\> 10.5% at baseline visit.\n42. Uncontrolled hyperglycemia with a glucose level \\>270 mg/dl (\\>15 mmol/L) after an overnight fast or \\>360 mg/dl (\\>20 mmol/l) in a randomly performed measurement that is confirmed by a second measurement (not on the same day) between screening and baseline visit.\n43. Active systemic infection, febrile illness, or antibiotic use within 4 weeks of the Baseline visit.\n44. Vaccination within 14 days of the Baseline visit.\n45. Any severe hypoglycemic event since the screening visit.\n46. Poorly controlled hypertension, as evidenced by a mean of 3 separate blood pressure measurements \\>180 mmHg (systolic) or \\>100 mmHg (diastolic)\n47. Women of child-bearing potential with a positive urine pregnancy test at baseline visit.\n48. LA Grade C or greater esophagitis on endoscopy.\n49. Abnormalities of the GI tract preventing endoscopic access to the duodenum.\n50. Anatomic abnormalities in the duodenum or proximal jejunum that would preclude the completion of the treatment procedure, including tortuous anatomy.\n51. Endoscopic observation of upper gastrointestinal abnormalities such as ulcers, polyps in the area to be treated, varices, strictures, congenital or intestinal telangiectasia.\n52. Any other anatomical or endoscopic abnormalities/characteristics that, in the opinion of the investigator, would preclude safe use of the investigational device or procedure.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "22 Years",
+      "maximumAge": "75 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Marie Steinbrink Clinical Director",
+          "role": "CONTACT",
+          "phone": "763-251-6827",
+          "email": "msteinbrink@endogenex.com"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Daniel DeMarco, M.D.",
+          "affiliation": "Baylor Health Care System",
+          "role": "STUDY_CHAIR"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-16"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D001836",
+          "term": "Body Weight Changes"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D001835",
+          "term": "Body Weight"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

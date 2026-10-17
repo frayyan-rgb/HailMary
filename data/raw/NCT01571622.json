@@ -1,0 +1,228 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01571622",
+      "orgStudyIdInfo": {
+        "id": "0175-11-WOMC"
+      },
+      "organization": {
+        "fullName": "Tel Aviv University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Whey Protein on Posprandial Glucose, Insulin GLP-1, GIP and DPP4 in Type 2 Diabetes",
+      "officialTitle": "Effect of Whey Protein Concentrate on Postprandial Glycemic Insulin, Active and Intact GLP-1and GIP, and DPP-4 Response in Type 2 Diabetic Patients",
+      "acronym": "WheyGLP-1"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2014-03",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2012-04"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2013-01",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2013-09",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2012-04-03",
+      "studyFirstSubmitQcDate": "2012-04-03",
+      "studyFirstPostDateStruct": {
+        "date": "2012-04-05",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2014-03-27",
+      "lastUpdatePostDateStruct": {
+        "date": "2014-03-31",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Daniela Jakubowicz",
+        "investigatorTitle": "Professor Daniela Jakubowicz MD",
+        "investigatorAffiliation": "Tel Aviv University"
+      },
+      "leadSponsor": {
+        "name": "Tel Aviv University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The aim of the present study is to examine the therapeutic effect of whey protein concentrate (WPC 80) in adult subjects with in type 2 diabetes. Whey protein will be administered before breakfast and its effects on posprandial glucose, insulin, c-peptide, intact and total GIP and GLP-1, and DPP-4 plasma levels will be assessed.",
+      "detailedDescription": "Milk and dairy product consumption has been associated with lower risk of metabolic disorders and cardiovascular diseases (1). A population-based prospective study (CARDIA) revealed that dairy consumption was inversely associated with the prevalence of all components of the insulin resistance syndrome (IRS) in overweight individuals (2).\n\nWhey accounts for about 20% of whole milk protein, while casein accounts for the rest. Whey protein is a source of bioactive components and branch chained amino acids (BCAAs) which could play a further role in the control of food intake and management of glucose metabolism, obesity and diabetes (1,3,4).\n\nWhey protein appears to have insulinotropic and glucose lowering properties in healthy adults (6-9), and also in individuals with type 2 diabetes (10,11). The magnitude of postprandial blood glucose reduction following ingestion of whey protein is comparable to that observed with pharmaceutical interventions such as sulfonylureas (12) or nateglinide (13). These findings imply an important role for whey protein in the management of type 2 diabetes (10).\n\nWhey protein seems to induce insulinotropic/\u03b2-cell-stimulating and glucose lowering effects via bioactive peptides generated during gastrointestinal digestion of BCAAs contained in \u03b2-lactoglobulin, the major whey protein (14).\n\nThese bioactive peptides stimulate the release of several gut hormones, especially the incretins, glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1), which potentiate insulin secretion from \u03b2-cells and are also associated with the control of food intake (9, 15-17). Increased plasma levels of GIP and GLP-1 have been reported following whey ingestion in patients with type 2 diabetes (10). The stimulatory effect of whey protein on GLP-1 is especially important since it has been shown that postprandial GLP-1 secretion is reduced in type 2 diabetes (18).\n\nThe bioactive peptides generated from whey protein may also serve as endogenous inhibitors of dipeptidyl peptidase-4 (DPP-4) in the proximal gut, preventing incretin (GIP and GLP-1) degradation (19, 20). Indeed, recently DPP-4 inhibitors have been found and identified in Whey protein (21). All these may reduce postprandial blood glucose levels.\n\nIncretin action is enhanced by whey protein ingestion, possibly through incretin degradation via inhibition of DPP-4 (19,20). This is important in light of several incretin-based therapies such as continuous administration of GLP-1 (19), treatment with degradation-resistant GLP-1R agonists (Exendin-4) (15,23-25), and therapy with DPP-4 inhibitors (Sitagliptin, Liraglutide and others gliptines ) (15,23-27) all of which have lead to substantial improvements in glucose control and \u03b2-cell function in subjects with type 2 diabetes.\n\nWhey protein stimulates GLP-1 secretion and prevents its inactivation by DPP 4. Thus, by potentiating GLP-1 secretion and enhancing its action, (15), whey protein may represent a valuable tool for treating type 2 diabetes."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Type 2 Diabetes Mellitus"
+      ],
+      "keywords": [
+        "Whey protein",
+        "type 2 diabetes"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 19,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Water before breakfast",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Each patient will consume a high-GI breakfast (white bread). Each subject will be pretreated 30 min before breakfast with 250 ml of water",
+          "interventionNames": [
+            "Dietary Supplement: Whey before Breakfast",
+            "Dietary Supplement: Water before breakfast"
+          ]
+        },
+        {
+          "label": "Whey before breakfast",
+          "type": "EXPERIMENTAL",
+          "description": "Each patient will consume a high-GI breakfast (white bread). Each subject will be pretreated 30 min before breakfast with Whey Protein Concentrate (WPC 80 %) 45 gr dissolved in 250 ml of water\\\\",
+          "interventionNames": [
+            "Dietary Supplement: Whey before Breakfast",
+            "Dietary Supplement: Water before breakfast"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Whey before Breakfast",
+          "description": "After consumption of whey before breakfast samples will be taken every 30 minutes for quantification of glucose, insulin, GlP-1 and GIP",
+          "armGroupLabels": [
+            "Water before breakfast",
+            "Whey before breakfast"
+          ]
+        },
+        {
+          "type": "DIETARY_SUPPLEMENT",
+          "name": "Water before breakfast",
+          "description": "After water before breakfast the blood samples will be taken every 30 min for quantification of glucose, insulin, GLP-1 and GIP,",
+          "armGroupLabels": [
+            "Water before breakfast",
+            "Whey before breakfast"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Glucose response",
+          "description": "In all 25 subjects, the effects of whey protein ingestion posprandial glucose, will be measured. Thirty minutes prior to breakfast, subjects will preloaded with one of 2 alternatives:\n\n1. (250 ml) water\n2. Whey Protein Concentrate (WPC 80 %), 45 gr dissolved in 250 ml of water",
+          "timeFrame": "During 4 hours meal challenge"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Insulin GLP-1, GIP and DPP4",
+          "description": "In all 25 subjects, the effects of whey protein on posprandial insulin, C- peptide, GIP, GLP-1, and dipeptil dipeptidase-4 (DPP-4) after standardized breakfast will be measured. Thirty minutes prior to breakfast, subjects will preloaded with one of 2 alternatives:\n\n1. (250 ml) water\n2. Whey Protein Concentrate (WPC 80 %), 45 gr dissolved in 250 ml of water",
+          "timeFrame": "During 4 hours after meal challange"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Type 2 diabetic patients\n2. Duration of diabetes: 1-10 years\n3. Subjects \u2265 40 and \u226470 years of age\n4. Metformin therapy and all oral antidiabetic medication will be allowed\n5. Overweight or obese (BMI: 25 to 35 kg/m2)\n6. Normal liver and kidney function\n7. Normal thyroid function\n8. Read and understood the informed consent form and signed it voluntarily\n\nExclusion Criteria:\n\n1. Liver, heart, kidney, lung, infectious, neurological, psychiatric, immunological or neoplastic diseases.\n2. Type 1 or insulin treated diabetes.\n3. Pregnancy or lactation\n4. Illicit drug abuse or alcoholism\n5. Subject treated with insulin or treatment with degradation-resistant GLP-1R agonists (Exendin-4) or similar and DPP4 inhibitors (Januvia)\n6. Subjects taking anoretic drugs\n7. Subjects on steroid treatment\n8. Subjects known by the principal investigator to be unable to cooperate for any reason.\n9. Known hypersensitivity to milk components\n10. Subjects after bariatric surgery.\n\n    \\-",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "40 Years",
+      "maximumAge": "70 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Daniela Jakubowicz, MD",
+          "affiliation": "Diabetes Unit E. Wolfson Medical Center Tel Aviv University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Diabetes Unit E. Wolfson Hospital",
+          "city": "Holon",
+          "state": "Tel Aviv",
+          "zip": "58100",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 32.01034,
+            "lon": 34.77918
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "25005331",
+          "type": "DERIVED",
+          "citation": "Jakubowicz D, Froy O, Ahren B, Boaz M, Landau Z, Bar-Dayan Y, Ganz T, Barnea M, Wainstein J. Incretin, insulinotropic and glucose-lowering effects of whey protein pre-load in type 2 diabetes: a randomised clinical trial. Diabetologia. 2014 Sep;57(9):1807-11. doi: 10.1007/s00125-014-3305-x. Epub 2014 Jul 10."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-16"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

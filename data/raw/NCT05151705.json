@@ -1,0 +1,220 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05151705",
+      "orgStudyIdInfo": {
+        "id": "HR17031-103"
+      },
+      "organization": {
+        "fullName": "Jiangsu HengRui Medicine Co., Ltd.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Trial of HR17031 Injection With Hepatic Insufficiency",
+      "officialTitle": "Pharmacokinetics and Safety of HR17031 Injection in Subjects With Mild and Moderate Liver Impairment and Normal Liver Function."
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2021-12",
+      "overallStatus": "UNKNOWN",
+      "lastKnownStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-12-20",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2022-06-15",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2022-06-30",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2021-12-07",
+      "studyFirstSubmitQcDate": "2021-12-07",
+      "studyFirstPostDateStruct": {
+        "date": "2021-12-09",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2021-12-07",
+      "lastUpdatePostDateStruct": {
+        "date": "2021-12-09",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Jiangsu HengRui Medicine Co., Ltd.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study used a single-dose, open design to compare the pharmacokinetics of subjects with mild and moderate liver impairment and subjects with normal liver function."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Improved Glycemic Control in Patients With Type 2 Diabetes"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Compare the pharmacokinetics of HR17031 injection in subjects with mild and moderate liver impairment and normal liver function",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 24,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Treatment group A: HR17031 injection",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: HR17031 injection"
+          ]
+        },
+        {
+          "label": "Treatment group B: HR17031 injection",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: HR17031 injection"
+          ]
+        },
+        {
+          "label": "Treatment group C: HR17031 injection",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: HR17031 injection"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "HR17031 injection",
+          "description": "Treatment group A:HR17031 injection; 10U/0.024mg",
+          "armGroupLabels": [
+            "Treatment group A: HR17031 injection"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "HR17031 injection",
+          "description": "Treatment group B: HR17031 injection; 10U/0.024mg",
+          "armGroupLabels": [
+            "Treatment group B: HR17031 injection"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "HR17031 injection",
+          "description": "Treatment group C: HR17031 injection; 10U/0.024mg",
+          "armGroupLabels": [
+            "Treatment group C: HR17031 injection"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Pharmacokinetics parameters of INS068 and SHR20004: Cmax",
+          "timeFrame": "Based on pre-dose, 2-96 hours post-dose sampling times"
+        },
+        {
+          "measure": "Pharmacokinetics parameters of INS068 and SHR20004: AUC0-t",
+          "timeFrame": "Based on pre-dose, 2-96 hours post-dose sampling times"
+        },
+        {
+          "measure": "Pharmacokinetics parameters of INS068 and SHR20004: AUC0-inf",
+          "timeFrame": "Based on pre-dose, 2-96 hours post-dose sampling times"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Pharmacokinetics parameters of INS068 and SHR20004: Tmax",
+          "timeFrame": "Based on pre-dose, 2-96 hours post-dose sampling times"
+        },
+        {
+          "measure": "Pharmacokinetics parameters of INS068 and SHR20004: T1/2",
+          "timeFrame": "Based on pre-dose, 2-96 hours post-dose sampling times"
+        },
+        {
+          "measure": "Pharmacokinetics parameters of INS068 and SHR20004: CL/F",
+          "timeFrame": "Based on pre-dose, 2-96 hours post-dose sampling times"
+        },
+        {
+          "measure": "Pharmacokinetics parameters of INS068 and SHR20004: Vz/F",
+          "timeFrame": "Based on pre-dose, 2-96 hours post-dose sampling times"
+        },
+        {
+          "measure": "Binding rate of plasma protein of INS068 in serum and SHR20004 in plasma(fu)",
+          "timeFrame": "Based on pre-dose, 2-96 hours post-dose sampling times"
+        },
+        {
+          "measure": "The incidence and severity of adverse events/serious adverse events",
+          "timeFrame": "Based on pre-dose, 2-96 hours post-dose sampling times"
+        },
+        {
+          "measure": "Pharmacodynamic\uff1aSerum c-peptide",
+          "timeFrame": "Based on pre-dose, 8-24 hours post-dose sampling times"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Signed the informed consent before the test, and fully understood the test content, process and possible adverse reactions; And able to complete the research according to the requirements of the test protocol;\n2. Subject (including partner) is willing to voluntarily take effective contraceptive measures within 10 weeks from screening to the last study drug administration. For specific contraceptive measures, see Appendix 1;\n3. Age 18-65 (including threshold), male and female;\n4. The weight of male subjects should not be less than 50 kg, and that of female subjects should not be less than 45 kg. Body mass index (BMI) : 18\\~32 kg/m2 (including critical value);\n5. For subjects with normal liver function, normal or abnormal clinical laboratory tests (blood routine, blood biochemistry, urine routine, coagulation function) have no clinical significance;\n6. Subjects with normal liver function: no previous serious primary diseases of important organs, including but not limited to gastrointestinal, respiratory, kidney, liver, nervous, blood, endocrine, tumor, immune, mental or cardiovascular diseases.\n\n   For subjects with impaired liver function, the following inclusion criteria should also be met:\n7. Those who have not taken medication within 4 weeks prior to screening, or who require long-term treatment for liver damage and/or other comorbidities, have taken stable medication for at least 4 weeks;\n8. Patients with child-Pugh grade A or B hepatic dysfunction resulting from previous primary liver disease.\n\nExclusion Criteria:\n\n1. Allergic disposition, or known or suspected allergy to any of the ingredients in the study drug;\n2. Smoked more than 5 cigarettes per day on average within 3 months before screening;\n3. Average daily alcohol intake in the 3 months prior to screening exceeds the following criteria: 15g (e.g., 145 mL wine, 497 mL beer or 43 mL low-alcohol liquor) for women and 25g (e.g., 290 mL wine, 994 mL beer or 86mL low-alcohol liquor) for men;\n4. A history of drug abuse within 3 months prior to the screening period;\n5. Those who donated blood or lost blood \u2265400 mL or received blood transfusion within 3 months prior to screening;\n6. Major surgery or surgical incision not completely healed within 6 months prior to screening;\n7. Taking Chinese herbal medicine within 2 weeks before administration;\n8. Have a malignant tumor, or have a history of malignant tumor in the 5 years prior to screening (excluding treated skin non-melanoma with no signs of recurrence, and excised cervical intraepithelial neoplasia);\n9. Systolic blood pressure \\> 160 mmHg or diastolic blood pressure \\> 100 mmHg at screening time;\n10. Female subjects are lactating or have positive serum pregnancy results during the screening period or during the test;\n11. For subjects with normal liver function: participants in clinical trials of any drug or medical device within 3 months prior to screening; For subjects with impaired liver function: participants in clinical trials of any drug or medical device within 1 month prior to screening;\n12. Patients whose ECG abnormality is clinically significant (e.g., tachycardia/bradycardia requiring medical treatment, degree II-III ATrioventricular block, or prolonged QTcF interval (males \u2265470 ms, females \u2265480 ms) (corrected according to Fridericia's formula) and determined by clinicians to be unsuitable for this study;\n13. Creatinine clearance (CLcr, calculated by Cockcroft-Gault formula, Appendix III) \u226460 mL/min;\n14. Subjects with normal liver function: those who are positive for hepatitis B surface antigen, hepatitis C antibody or hepatitis C core antigen, HIV antibody or syphilis antibody screened are excluded;\n15. Screening for positive urine drugs (morphine, cannabis);\n16. Within 1 day before administration, those who have eaten any food or drink containing alcohol (or positive breath test for alcohol), grapefruit juice/grapefruit juice, methylxanthine (such as coffee, tea, cola, chocolate, energy drink), strenuous exercise or other factors affecting drug absorption, distribution, metabolism, excretion, etc.;\n17. Patients who are expected to be prone to surgery or hospitalization during the study period;\n18. Any factors that the investigator considers inappropriate for participation in this study.\n\n    Supplementary exclusion criteria for subjects with liver function impairment (exclusion if meeting 1 of these criteria) :\n19. History of liver transplantation;\n20. Subjects with liver failure or cirrhosis with hepatic encephalopathy, hepatocellular carcinoma, esophageal and gastric variceal hemorrhage and other complications deemed unsuitable for the study by the investigator;\n21. In addition to the primary liver disease itself, has a history of any serious illness, or history of researchers think that may affect the test results and/or anomalies have clinical significance of clinical laboratory tests, including but not limited to the circulatory system, endocrine system, nervous system, digestive system, urinary system, or blood, immune, spirit and metabolic disease.\n22. HIV antibody screening positive; If syphilis antibody is positive, rapid plasma rereaction test (RPR) should be added. If RPR is positive at the same time, it should be excluded.\n23. Alpha-fetoprotein \\> 50 ng/mL; Or neutrophil count (ANC) \u22650.75\u00d7109/L (1,500/mm3); Or Hgb \u22647.0 g/dL (90 g/L); Or ALT and AST \u226510 times the upper limit of normal (ULN) were excluded.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "65 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Sheng Feng, Ph.D.",
+          "role": "CONTACT",
+          "phone": "13817253036",
+          "email": "Sheng.feng@hengrui.com"
+        },
+        {
+          "name": "Yuxiong Gao, Ph.D.",
+          "role": "CONTACT",
+          "phone": "19821262236",
+          "email": "gaoyu.xiong@hengrui.cn"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-10-16"
+    }
+  },
+  "hasResults": false
+}
